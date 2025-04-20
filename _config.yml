@@ -1,7 +1,7 @@
 Title: Paveel's TIS page
-logo: assets/img/images.jpg
+logo: assets/img/images.png
 description: "Software engineer at Qaiwan international university (QIU)"
 
 show_downloads: True
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 
